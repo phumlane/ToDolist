@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    text-align: center;
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: rgb(216, 208, 208);
+    padding: 20px;
+
+}
+
+.input{
+    padding: 10px;
+}
+
+.input #inputField{
+    padding: 7px;
+    padding-left:20px;
+    font-size: 16px;
+    border-radius: 10px;
+    border-color: indigo;
+    
+}
+
+.input #add{
+    padding: 7px;
+    border-radius: 10px;
+    border-color: rgb(149, 148, 214);
+    padding-left: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: bolder;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.list{
+    border-radius: 5px solid;
+    border-width: 100px;
+    background-color: ivory;
+    align-items: center;
+    
+}
+
+.list .lists{
+    margin-top: 29px;
+}
+
+.paragraph-style{
+   font-size: 30px;
+   font-weight: bolder;
+   cursor: pointer;
+   margin-top: 20px;
+   
+}
+
